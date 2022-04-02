@@ -1,4 +1,4 @@
-![image](file:///C:/Users/phani_000/Pictures/Screenshots/Screenshot%20(262).png)
+
 ![image](file:///C:/Users/phani_000/Pictures/Screenshots/Screenshot%20(261).png)
 
 # TEST PLAN:
