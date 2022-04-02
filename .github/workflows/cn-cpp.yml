@@ -1,4 +1,4 @@
-name: C/C++ CI- linux
+name: C/C++ CI- git bash
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: git bash-latest
 
     steps:
     - uses: actions/checkout@v3
